@@ -28,7 +28,7 @@ jumlah_prrt = 22/7 * 4 * 4 * 6
 print("Jumlah volume tabung adalah", jumlah_prrt)
 
 # ubah celcius ke reamur
-c = 4
-r = 5
+c = 15
+r = 4/5
 jumlah_ckr = 4/5 * 15
 print("Jumlah celcius ke reamur adalah", jumlah_ckr)
